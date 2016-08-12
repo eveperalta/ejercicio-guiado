@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nueva linea de texto 3
+=======
+este es un nuevo texto desde eve
+>>>>>>> eve
